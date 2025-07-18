@@ -1,5 +1,8 @@
 # 💫 About Me:
-i am a genai enthusiast and eager to solve dsa questions this year ill be graduating looking forward to contributed to genai projects<br>
+Hey there! I’m Bhupesh, a soon-to-be Computer Science graduate with a passion for building intelligent systems.
+🤖 I’m exploring the world of Generative AI — from language models and prompt engineering to creative AI tools and workflows.
+💡 I thrive on solving DSA challenges and sharpening my algorithmic thinking.
+✨ Always learning, always building. Currently open to exciting opportunities in GenAI development!<br>
 
 
 ## 🌐 Socials:
