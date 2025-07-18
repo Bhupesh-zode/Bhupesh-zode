@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey there! I’m Bhupesh, a soon-to-be Computer Science graduate with a passion for building intelligent systems.
-🤖 I’m exploring the world of Generative AI — from language models and prompt engineering to creative AI tools and workflows.
-💡 I thrive on solving DSA challenges and sharpening my algorithmic thinking.
+Hey there! I’m Bhupesh, a soon-to-be Computer Science graduate with a passion for building intelligent systems.<br>
+🤖 I’m exploring the world of Generative AI — from language models and prompt engineering to creative AI tools and workflows.<br>
+💡 I thrive on solving DSA challenges and sharpening my algorithmic thinking.<br>
 ✨ Always learning, always building. Currently open to exciting opportunities in GenAI development!<br>
 
 
