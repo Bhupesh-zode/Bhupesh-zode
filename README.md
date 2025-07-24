@@ -1,3 +1,7 @@
+## Visitor count
+
+![Visitor Count](https://count.getloli.com/get/@Bhupesh-zode?theme=rule34)
+
 # 💫 About Me:
 Hey there! I’m Bhupesh, a soon-to-be Computer Science graduate with a passion for building intelligent systems.<br>
 🤖 I’m exploring the world of Generative AI — from language models and prompt engineering to creative AI tools and workflows.<br>
